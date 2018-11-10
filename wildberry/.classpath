@@ -6,6 +6,6 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="src" path="src"/>
-	<classpathentry exported="true" kind="lib" path="/home/chris/Downloads/litiengine-0.4.13.jar"/>
+	<classpathentry kind="lib" path="/Users/Francis/Documents/GitHub/wildberry/wildberry/litiengine-0.4.13.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
